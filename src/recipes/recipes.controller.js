@@ -156,4 +156,5 @@ module.exports = {
   createRecipe,
   deleteRecipe,
   updateRecipe,
+  getMyRecipes,
 };
